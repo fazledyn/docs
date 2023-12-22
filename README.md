@@ -1,5 +1,5 @@
 # Simple Static File Server
-This is my simple file server, hosted at https://files.fazledyn.com/ or https://fazledyn.github.io/files/. This project uses [apindex](https://github.com/libthinkpad/apindex) to generate static index pages. This feels like a great way to upload and share files.
+This is my simple file server, hosted at https://docs.fazledyn.com/ or https://fazledyn.github.io/docs/. This project uses [apindex](https://github.com/libthinkpad/apindex) to generate static index pages. This feels like a great way to upload and share files.
 
 
 # Requirements
